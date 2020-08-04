@@ -31,7 +31,7 @@
 <br />
 ---
 
-[![Yi Ren's github stats](https://github-readme-stats.vercel.app/api?username=YIREN1)](https://github.com/anuraghazra/github-readme-stats)
+[![Yi Ren's github stats](https://github-readme-stats.vercel.app/api?username=YIREN1&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- [website]: https://codeSTACKr.com -->
