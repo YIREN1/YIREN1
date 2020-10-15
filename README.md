@@ -28,10 +28,11 @@
 
 
 <br />
+
+<br />
 <a href="https://gitmoji.carloscuesta.me">
   <img src="https://img.shields.io/badge/gitmoji-%20😜%20😍-FFDD67.svg?style=flat-square" alt="Gitmoji">
 </a>
-<br />
 ---
 
 [![Yi Ren's github stats](https://github-readme-stats.vercel.app/api?username=YIREN1&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
