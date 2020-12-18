@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything lol
 - 🤔 My dream is world peace
 - 😄 2020 Goals: keep fighting
-- ⚡ Fun facts: I play basketball and I play guitar(learning). I love singing and Chinese caligraphy.
+- ⚡ Fun facts: I play basketball and I enjoy cooking. I love travelling and photography. I love singing and Chinese caligraphy.
 
 ### Connect with me:
 
