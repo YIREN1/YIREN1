@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Yi Ren
 
-## I am a CS student(AI), Developer, Programming enthusiasts
+## I am a CS(AI) student, Developer, Programming enthusiasts
 
 - 🔭 I’m currently in my 4th year in the University of Waterloo
 - 🌱 I’m currently learning everything lol
