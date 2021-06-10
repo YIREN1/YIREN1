@@ -5,7 +5,7 @@
 - 🔭 I’m currently in my 4th year in the University of Waterloo
 - 🌱 I’m currently learning everything lol
 - 🤔 My dream is world peace
-- 😄 2020 Goals: keep fighting
+- 😄 2021 Goals: keep fighting
 - ⚡ Fun facts: I play basketball and I enjoy cooking. I love travelling and photography. I love singing and Chinese caligraphy.
 
 ### Connect with me:
