@@ -2,10 +2,11 @@
 
 ## I am a CS(AI) student, Developer, Programming enthusiasts
 
-- 🔭 I’m currently in my 4th year in the University of Waterloo
+- 🔭 I’m graduating from the University of Waterloo
 - 🌱 I’m currently learning everything lol
 - 🤔 My dream is world peace
-- 😄 2021 Goals: keep fighting
+- 😄 2022 Goals: keep fighting
+- 😎 Incoming Google SDE
 - ⚡ Fun facts: I play basketball and I enjoy cooking. I love travelling and photography. I love singing and Chinese caligraphy.
 
 ### Connect with me:
